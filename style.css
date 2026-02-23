@@ -603,6 +603,10 @@ a {
     display: none;
   }
   
+  .nav-links {
+    display: none;
+  }
+  
   .hamburger {
     display: block;
   }
